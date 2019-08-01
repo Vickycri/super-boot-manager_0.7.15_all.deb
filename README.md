@@ -13,3 +13,6 @@ sudo apt-get update
 
 
 sudo apt-get install super-boot-manager
+
+or
+sudo dpkg -i super-boot-manager
